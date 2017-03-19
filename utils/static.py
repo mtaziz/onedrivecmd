@@ -13,7 +13,7 @@ VER = 'OnedriveCMD V0.0.3'
 # If you are not sure whether this is safe,
 # you can register your own APP and use your own URL.
 # Don't just change it: you will have error.
-redirect_uri = 'https://od.cnbeining.com'
+redirect_uri = 'https://onedrive.live.com/about/business/'
 
 
 ## Normal 
@@ -30,8 +30,8 @@ auth_token_url='https://login.microsoftonline.com/common/oauth2/token'
 # If you are working with Office 365 you may want to create your own app
 # and change the following:
 # You can still use https://od.cnbeining.com as redirect URL.
-client_id_business = '6fdb55b4-c905-4612-bd23-306c3918217c'
-client_secret_business = 'HThkLCvKhqoxTDV9Y9uS+EvdQ72fbWr/Qrn2PFBZ/Ow='
+client_id_business = 'cdf60547-0b22-4541-9315-f58169fe11b1'
+client_secret_business = 'WkOhYmgFZYYDdNe6HwMBzYtK7DS5i78yruNBlJ7vEpA='
 
 if __name__=='__main__':
     pass
